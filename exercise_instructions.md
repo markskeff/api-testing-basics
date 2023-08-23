@@ -30,11 +30,9 @@ Headers: (None)
 URL: https://jsonplaceholder.typicode.com/posts/1
 
 Headers:
-
   Content-Type: application/json
   
 Body:
-
 {
 
   "id": 1,
@@ -52,11 +50,9 @@ Body:
 URL: https://jsonplaceholder.typicode.com/posts
 
 Headers:
-
   Content-Type: application/json
   
 Body:
-
 {
 
   "title": "New Post",
