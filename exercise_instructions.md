@@ -1,6 +1,6 @@
 # Exercise Instructions
 
-In this practical exercise, you will use an online API testing tool to perform request-response actions on a sample API. The goal is to familiarize yourself with the tool's interface and understand how different HTTP methods and requests impact API responses.
+In this practical exercise, you will use an online API testing tool (Postman) to perform request-response actions on a sample API (https://jsonplaceholder.typicode.com). The goal is to familiarize yourself with the tool's interface and understand how different HTTP methods and requests impact API responses.
 
 ## Getting Started
 
