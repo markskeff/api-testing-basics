@@ -1,28 +1,21 @@
 # Exercise Instructions
 
-In this practical exercise, you will use an online API testing tool (Postman) to perform request-response actions on a sample API (https://jsonplaceholder.typicode.com). The goal is to familiarize yourself with the tool's interface and understand how different HTTP methods and requests impact API responses.
+In this practical exercise, you will use an online API testing tool to perform request-response actions on a sample API. The goal is to familiarize yourself with the tool's interface and understand how different HTTP methods and requests impact API responses.
 
 ## Getting Started
 
 1. Open a web browser on your computer.
-2. Go to [Postman](https://www.postman.com/) and sign up or log in to your Postman account.
-3. Once logged in, you will be greeted with the Postman dashboard.
-
-## Importing Requests
-
-1. From the dashboard, click on the "New" button at the top-left corner.
-2. Choose "Collection" to create a new collection for your API requests.
-3. Give your collection a name (e.g., "API Testing Basics Collection").
-4. Click "Create" to create the collection.
-5. Within your collection, click the "Import" button.
-6. Choose "Link" and provide the URL to the collection JSON file provided in the repository's `api_test_scripts/` directory.
+2. Go to [ReqBin](https://reqbin.com/), a user-friendly online API testing tool.
 
 ## Running API Requests
 
-1. Click on a specific request from your collection to select it.
-2. Review the request details, including the HTTP method, URL, headers, and parameters.
-3. Click the "Send" button to execute the request.
-4. Examine the response you receive, paying attention to the status code, headers, and response content.
+1. On the ReqBin homepage, you'll find a "Create Request" section.
+2. Enter the URL of the API endpoint you want to test (e.g., `https://jsonplaceholder.typicode.com/posts`).
+3. Choose the HTTP method you want to use (GET, POST, PUT, DELETE) from the dropdown.
+4. Add any necessary headers or parameters based on the API documentation.
+5. If applicable, enter the request body data (e.g., for POST and PUT requests).
+6. Click the "Send" button to execute the request.
+7. Examine the response you receive, paying attention to the status code, headers, and response content.
 
 ## Exploring Responses
 
