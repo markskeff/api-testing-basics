@@ -1,4 +1,4 @@
 #!/bin/bash
 
-# Sends a DELETE request to an Insider endpoint using curl
-curl -X DELETE https://www.insider.com/
+# Sending a DELETE request using curl to remove a book
+curl -X DELETE https://api.example.com/books/123
