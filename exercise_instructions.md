@@ -33,6 +33,7 @@ Headers:
   Content-Type: application/json
   
 Body:
+
 {
 
   "id": 1,
@@ -53,6 +54,7 @@ Headers:
   Content-Type: application/json
   
 Body:
+
 {
 
   "title": "New Post",
