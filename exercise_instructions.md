@@ -36,36 +36,15 @@ Congratulations! You've successfully completed the practical exercise using an o
 
 ## Running Test Scripts using Terminal
 
-In order to run the test scripts in the api_test_scripts folder via command line (or Terminal) do the following:  
+You can experiment further by using the command line (Terminal for Mac) to run the test scripts localed in the api_test_scripts directory.  This utilizes Curl: 
 
-Running Test Scripts: GET Request
+Definition:
+curl stands for "Client URL." It is a command-line tool and library used to send and receive data using various protocols, including HTTP, HTTPS, FTP, and more.
 
-Open Terminal:
-Open the terminal on your computer. This is where you'll enter commands to run the test scripts.
+Functionality:
+curl is used to perform HTTP requests and interact with web services directly from the command line. It can send GET, POST, PUT, DELETE, and other types of requests, allowing users to retrieve, send, and manipulate data.
 
-Navigate to the Scripts Directory:
-Use the cd command to navigate to the api_test_scripts/ directory within the cloned repository. This is where the test scripts are located.
-
-sh
-Copy code
-cd path/to/api-testing-basics/api_test_scripts
-Replace path/to/api-testing-basics with the actual path to the cloned repository on your computer.
-
-Run the GET Request Script:
-To run the get_request.sh script, you need to use the ./ prefix followed by the script's filename. This tells the terminal to execute the script.
-
-sh
-Copy code
-./get_request.sh
-This command runs the script and sends a GET request to the specified API endpoint. The script uses the curl command to perform the request.
-
-Observe the Output:
-After running the script, the terminal will display the output of the curl command. This output includes the response from the API, which includes the status code, headers, and response content.
-
-Pay close attention to the status code, as it indicates whether the request was successful or encountered an error.
-
-Running the script in this manner allows you to interact with the API and observe the response directly in the terminal. This hands-on experience helps you understand how the curl command can be used to perform HTTP requests and receive responses.
-
-Remember, you can follow a similar process to run the other test scripts (post_request.sh, put_request.sh, and delete_request.sh) for different HTTP methods. Just replace the script name in the command with the appropriate script filename.
+Usage:
+To use curl, you provide a URL to specify the target server and endpoint, along with various options to customize the request. For example, you can use curl -X GET https://api.example.com to send a GET request to the specified URL. It's a powerful tool for testing APIs and fetching data programmatically.
 
 Enjoy your journey into the world of API testing!
