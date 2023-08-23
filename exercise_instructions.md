@@ -39,12 +39,15 @@ Congratulations! You've successfully completed the practical exercise using an o
 You can experiment further by using the command line (Terminal for Mac) to run the test scripts localed in the api_test_scripts directory.  This utilizes Curl: 
 
 Definition:
+
 curl stands for "Client URL." It is a command-line tool and library used to send and receive data using various protocols, including HTTP, HTTPS, FTP, and more.
 
 Functionality:
+
 curl is used to perform HTTP requests and interact with web services directly from the command line. It can send GET, POST, PUT, DELETE, and other types of requests, allowing users to retrieve, send, and manipulate data.
 
 Usage:
+
 To use curl, you provide a URL to specify the target server and endpoint, along with various options to customize the request. For example, you can use curl -X GET https://api.example.com to send a GET request to the specified URL. It's a powerful tool for testing APIs and fetching data programmatically.
 
 Enjoy your journey into the world of API testing!
