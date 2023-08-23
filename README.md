@@ -6,6 +6,6 @@ For learning the basic concepts of api testing
 
 2. Get to know HTTP Methods
 
-3. Send some requests & view the response data 
+3. Understand the Request/Response structure
 
-4. Experiment a little more 
+4. Get to know Status Codes
