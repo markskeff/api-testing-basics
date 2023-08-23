@@ -17,6 +17,48 @@ In this practical exercise, you will use an online API testing tool to perform r
 6. Click the "Send" button to execute the request.
 7. Examine the response you receive, paying attention to the status code, headers, and response content.
 
+## Some Example Requests To Use:
+
+## Method: GET
+
+URL: https://jsonplaceholder.typicode.com/posts
+
+Headers: (None)
+
+## Method: PUT
+
+URL: https://jsonplaceholder.typicode.com/posts/1
+
+Headers:
+  Content-Type: application/json
+Body:
+{
+  "id": 1,
+  "title": "Updated Title",
+  "body": "Updated body content.",
+  "userId": 1
+}
+
+## Method: POST
+
+URL: https://jsonplaceholder.typicode.com/posts
+
+Headers:
+  Content-Type: application/json
+Body:
+{
+  "title": "New Post",
+  "body": "This is a new post.",
+  "userId": 1
+}
+
+## Method: DELETE
+
+URL: https://jsonplaceholder.typicode.com/posts/1
+
+Headers: (None)
+
+
 ## Exploring Responses
 
 1. After sending the API requests, carefully review the responses you receive.
