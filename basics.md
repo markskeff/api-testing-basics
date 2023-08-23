@@ -37,11 +37,23 @@ In API testing, communication occurs through requests and responses. The structu
 HTTP status codes provide information about the result of a request. Here are some common status codes you'll encounter:
 
 - **200 OK:** Successful request.
+- User Action: Retrieving a list of available products from an online store.
+- Response: Successfully receiving a list of products along with their details.
 - **201 Created:** Successful resource creation.
+- User Action: Signing up for a new account on a website.
+- Response: The server acknowledges the successful creation of the account.
 - **400 Bad Request:** Invalid request, often due to missing or incorrect parameters.
+- User Action: Submitting a contact form with missing required fields.
+- Response: The server responds with an error message, indicating which fields are missing or incorrect.
 - **401 Unauthorized:** Authentication required or invalid credentials.
+- User Action: Trying to access a password-protected page without logging in.
+- Response: The server denies access and prompts the user to log in.
 - **404 Not Found:** Requested resource does not exist on the server.
+- User Action: Clicking on a broken link or trying to access a page that doesn't exist.
+- Response: The server communicates that the requested resource or page is not available.
 - **500 Internal Server Error:** The server encountered an error while processing the request.
+- User Action: Attempting to submit an online form that triggers an error on the server's end.
+- Response: The server encounters an issue while processing the request and responds with a generic error message.
 
 ## JSON - JavaScript Object Notation
 
