@@ -1,4 +1,4 @@
 #!/bin/bash
 
-# Sending a GET request to a hypothetical API endpoint using curl
-curl -X GET https://api.example.com/users
+# Sending a GET request to an Insider endpoint using curl
+curl -X GET https://www.insider.com/
