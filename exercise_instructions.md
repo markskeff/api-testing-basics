@@ -30,13 +30,21 @@ Headers: (None)
 URL: https://jsonplaceholder.typicode.com/posts/1
 
 Headers:
+
   Content-Type: application/json
+  
 Body:
+
 {
+
   "id": 1,
+  
   "title": "Updated Title",
+  
   "body": "Updated body content.",
+  
   "userId": 1
+  
 }
 
 **Method: POST**
@@ -44,12 +52,19 @@ Body:
 URL: https://jsonplaceholder.typicode.com/posts
 
 Headers:
+
   Content-Type: application/json
+  
 Body:
+
 {
+
   "title": "New Post",
+  
   "body": "This is a new post.",
+  
   "userId": 1
+  
 }
 
 **Method: DELETE**
