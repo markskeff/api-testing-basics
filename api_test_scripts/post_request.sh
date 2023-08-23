@@ -1,5 +1,6 @@
 #!/bin/bash
 
-# Sending a POST request using curl to create a new book
-curl -X POST -H "Content-Type: application/json" -d '{"title": "New Book", "author": "John Doe"}' https://api.example.com/books
+# Sending a POST request using curl to create a new post
+curl -X POST -H "Content-Type: application/json" -d '{"title": "New Post", "body": "Hello, world!", "userId": 1}' https://jsonplaceholder.typicode.com/posts
+
 
