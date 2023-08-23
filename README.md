@@ -9,3 +9,7 @@ For learning the basic concepts of api testing
 3. Understand the Request/Response structure
 
 4. Get to know Status Codes
+   
+5. Understand JSON
+
+6. Practical examples / experimentation 
