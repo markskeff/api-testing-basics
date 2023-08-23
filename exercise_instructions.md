@@ -34,6 +34,8 @@ In this practical exercise, you will use an online API testing tool to perform r
 
 Congratulations! You've successfully completed the practical exercise using an online API testing tool. By sending requests and interpreting responses, you've gained valuable experience in API testing concepts and techniques. Remember to continue practicing and exploring different scenarios to enhance your skills further.
 
+Experiment further? ... 
+
 ## Running Test Scripts using Terminal
 
 You can experiment further by using the command line (Terminal for Mac) to run the test scripts localed in the api_test_scripts directory.  This utilizes Curl: 
