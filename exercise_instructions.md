@@ -19,13 +19,13 @@ In this practical exercise, you will use an online API testing tool to perform r
 
 ## Some Example Requests To Use:
 
-**Method: GET**
+** Method: GET
 
 URL: https://jsonplaceholder.typicode.com/posts
 
 Headers: (None)
 
-**Method: PUT**
+** Method: PUT
 
 URL: https://jsonplaceholder.typicode.com/posts/1
 
@@ -46,7 +46,7 @@ Body:
   
 }
 
-**Method: POST**
+** Method: POST
 
 URL: https://jsonplaceholder.typicode.com/posts
 
@@ -65,7 +65,7 @@ Body:
   
 }
 
-**Method: DELETE**
+** Method: DELETE
 
 URL: https://jsonplaceholder.typicode.com/posts/1
 
