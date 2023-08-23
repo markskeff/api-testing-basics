@@ -2,9 +2,9 @@
 For learning the basic concepts of api testing
 
 # What You Will Learn
-1. Understand what webservices are & how they are used 
+1. Understand what REST is
 
-2. Learn about requests and understand response codes
+2. Get to know HTTP Methods
 
 3. Send some requests & view the response data 
 
