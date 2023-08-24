@@ -1,4 +1,5 @@
 Imagine you're at a restaurant and you want to order some food. 
+
 The waiter is like a bridge between you and the kitchen. 
 You don't need to know how the kitchen operates or how the chef prepares the food. 
 Instead, you interact with the waiter by telling them what you want, and the waiter communicates your order to the kitchen. 
@@ -13,6 +14,7 @@ Kitchen: The kitchen is where all the action happens. It prepares the food based
 Now, let's relate this to APIs:
 
 An API (Application Programming Interface) is like the waiter in this analogy. It's a set of rules and protocols that allow different software applications to communicate with each other. 
+
 Just like you don't need to know how the kitchen works, software applications don't need to know the internal details of another application they want to interact with.
 
 For instance, think about a weather app on your phone. This app might get its weather information from a different service, like a weather API. Here's how it works:
