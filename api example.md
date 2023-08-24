@@ -24,4 +24,4 @@ Weather API: The API here is like the waiter. The app sends requests (orders) to
 API Server: Similar to the kitchen, the API server processes the request, gathers the necessary data (prepares the food), and sends it back to the app.
 Weather App Display: The app then displays the weather information to you, the user.
 So, an API allows different software applications to work together without needing to understand the complex details of each other's inner workings. 
-  It provides a standardized way for them to request and exchange information, just like a waiter provides a way for you to order and enjoy your food without knowing how it's prepared in the kitchen.
+It provides a standardized way for them to request and exchange information, just like a waiter provides a way for you to order and enjoy your food without knowing how it's prepared in the kitchen.
