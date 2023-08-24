@@ -6,6 +6,10 @@ In this document, we'll introduce some essential concepts related to REST API te
 
 REST (Representational State Transfer) is an architectural style used in designing networked applications. It provides a set of principles for creating web services that are scalable, stateless, and easily accessible over standard HTTP protocols.
 
+Think of REST as the 'language' that allows different websites and apps to have a conversation. Just like people from different countries can communicate using a common language, web services and applications use REST to talk to each other. It's like REST gives them a structured way to ask for information, send updates, or share data. 
+
+So, when you click on a button in an app to load new content, or when your browser fetches the latest news from a website, it's often REST behind the scenes, making sure everything flows smoothly and efficiently over the internet.
+
 ## HTTP Methods
 
 HTTP methods define the type of operation to be performed on a resource. Here are some fundamental HTTP methods used in REST API testing:
@@ -14,6 +18,8 @@ HTTP methods define the type of operation to be performed on a resource. Here ar
 - **POST:** Send data to the server to create a new resource.
 - **PUT:** Send data to the server to update an existing resource. It's also idempotent.
 - **DELETE:** Send a request to remove a resource from the server.
+
+Imagine using a website: GET is like asking for a page, POST is like submitting a form, PUT is like updating information, and DELETE is like removing something.
 
 ## Request and Response Structure
 
