@@ -16,7 +16,7 @@ For learning the basic concepts of api testing
 
 7. Practical examples / experimentation 
 
-## Practical Exercise
+## Practical Exercise (Take home)
 
 In this practical exercise, you'll get hands-on experience with sending requests and receiving responses using different HTTP methods to interact with a sample API. We'll be using tools like `curl` to perform these tests.
 
