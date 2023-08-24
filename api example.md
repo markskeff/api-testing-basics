@@ -8,7 +8,9 @@ Once the food is ready, the waiter brings it back to you.
 ## In this scenario:
 
 You: You're the user who wants a specific service (food).
+
 Waiter: The waiter acts as an intermediary, or a bridge, between you and the kitchen. It takes your order and brings you the food.
+
 Kitchen: The kitchen is where all the action happens. It prepares the food based on the order from the waiter.
 
 ## Now, let's relate this to APIs:
