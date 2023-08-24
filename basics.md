@@ -1,6 +1,6 @@
 # Basics of REST API Testing
 
-In this document, we'll cover some essential concepts related to REST API testing. Whether you're new to API testing or looking to refresh your knowledge, this guide will provide you with a solid foundation.
+In this document, we'll introduce some essential concepts related to REST API testing to give you a basic overview of REST api testing.  
 
 ## REST - Representational State Transfer
 
